@@ -43,7 +43,7 @@ namespace x_and_0
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Joc x si 0 reazizat de Gavrila Vladut");
+            MessageBox.Show("Joc x si 0 realizat de Gavrila Vladut");
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
