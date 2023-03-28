@@ -1,0 +1,10 @@
+C:\Users\vladu\Documents\x and 0\x and 0\bin\Debug\x and 0.exe.config
+C:\Users\vladu\Documents\x and 0\x and 0\bin\Debug\x and 0.exe
+C:\Users\vladu\Documents\x and 0\x and 0\bin\Debug\x and 0.pdb
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x and 0.csproj.AssemblyReference.cache
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x_and_0.Form1.resources
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x_and_0.Properties.Resources.resources
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x and 0.csproj.GenerateResource.cache
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x and 0.csproj.CoreCompileInputs.cache
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x and 0.exe
+C:\Users\vladu\Documents\x and 0\x and 0\obj\Debug\x and 0.pdb
